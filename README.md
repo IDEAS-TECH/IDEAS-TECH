@@ -4,7 +4,7 @@
      ANIMATED TYPING BANNER
 ════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0BC5EA&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hello%2C+World.+I'm+Isaac+%F0%9F%91%8B;Full+Stack+Developer+%7C+UI+Architect;Building+Fast%2C+Futuristic+%26+Intelligent+Apps)](https://github.com/IDEAS-TECH)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0BC5EA&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hello%2C+World.+I'm+Isaac+%F0%9F%91%8B;Full+Stack+Developer+%7C+UI+Architect)](https://github.com/IDEAS-TECH)
 
 </div>
 
@@ -27,7 +27,7 @@ const isaac = {
   name    : "Isaac Ackah",
   alias   : "IDEAS-TECH",
   role    : "Full Stack Developer",
-  base    : "Accra, Ghana 🇬🇭",
+  base    : "Kumasi, Ghana 🇬🇭",
   focus   : [
     "Scalable Web Architecture",
     "Cinematic UI/UX Engineering",
@@ -223,7 +223,7 @@ const isaac = {
 
 <br/><br/>
 
-*— Built with 🎧 lo-fi beats, ☕ strong coffee & infinite curiosity —*
+*— Built with 🎧 lo-fi beats, ☕ strong coffee & infinite curiosity by IDEAS —*
 
 </div>
 
