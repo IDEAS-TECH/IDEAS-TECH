@@ -1,84 +1,260 @@
-<table>
-  <tr>
-    <td width="55%" valign="top">
-
-![💫 About Me](https://img.shields.io/badge/-%F0%9F%92%AB_About_Me-0bc5ea?style=for-the-badge)
-
-Full Stack Developer passionate about building high-performance web applications, cinematic user interfaces, and immersive digital experiences.
-
-I specialize in creating scalable frontend and backend systems with modern technologies while blending clean engineering with visually engaging interaction design.
-
-![⚡ Focus](https://img.shields.io/badge/-%E2%9A%A1_Focused_On-7c3aed?style=for-the-badge)
-• Full Stack Web Development
-• Interactive & Animated Interfaces
-• AI-Powered Applications
-• Workflow Automation with **n8n**
-• Modern UI/UX Engineering
-• Performance Optimization
-
-![🛠 Stack](https://img.shields.io/badge/-%F0%9F%9B%A0_Tech_Stack-ffffff?style=for-the-badge&labelColor=0bc5ea)
-
-`React` `Next.js` `NestJS` `TypeScript` `Node.js` `Express` `MongoDB` `TailwindCSS` `n8n`
-
-![🚀 Goal](https://img.shields.io/badge/-%F0%9F%9A%80_Goal-0bc5ea?style=for-the-badge)
-
-Building digital experiences that feel **fast**, **futuristic**, **intelligent**, and **unforgettable**.
-
-    </td>
-    <td width="45%" valign="top" align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/coding-animation.svg">
-  <img src="assets/coding-animation.svg" width="100%" alt="Coding Animation">
-</picture>
-
-    </td>
-  </tr>
-</table>
-
-<br>
-
-![🌐 Socials](https://img.shields.io/badge/-%F0%9F%8C%90_Socials-7c3aed?style=for-the-badge)
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1PZa1iYBRk/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ideasmee?igsh=YnA2OGtuNzAxZzU4&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/isaac-ackah-ideas) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ideasioaa@gmail.com)
-
-<br>
-
-![💻 Tech Stack](https://img.shields.io/badge/-%F0%9F%92%BB_Tech_Stack-0bc5ea?style=for-the-badge)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-<br>
-
-![📊 GitHub Stats](https://img.shields.io/badge/-%F0%9F%93%8A_GitHub_Stats-0bc5ea?style=for-the-badge)
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IDEAS-TECH&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile&title_color=0bc5ea&text_color=ffffff&icon_color=7c3aed" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IDEAS-TECH&theme=transparent&hide_border=true&ring=0bc5ea&fire=7c3aed&currStreakLabel=0bc5ea" height="160"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDEAS-TECH&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&title_color=0bc5ea&text_color=ffffff"/>
+
+<!-- ══════════════════════════════════════════════════
+     ANIMATED TYPING BANNER
+════════════════════════════════════════════════════ -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0BC5EA&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hello%2C+World.+I'm+Isaac+%F0%9F%91%8B;Full+Stack+Developer+%7C+UI+Architect;Building+Fast%2C+Futuristic+%26+Intelligent+Apps)](https://github.com/IDEAS-TECH)
+
 </div>
-
-<br>
-
-![📈 Contribution Graph](https://img.shields.io/badge/-%F0%9F%93%88_Contribution_Graph-7c3aed?style=for-the-badge)
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IDEAS-TECH&theme=react-dark&hide_border=true&area=true&custom_title=IDEAS-TECH%20Contribution%20Graph&color=0bc5ea&line=7c3aed&point=ffffff"/>
-</div>
-
-<br>
-
-![🏆 GitHub Trophies](https://img.shields.io/badge/-%F0%9F%8F%86_Trophies-ffffff?style=for-the-badge&labelColor=7c3aed)
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IDEAS-TECH&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=4"/>
-</div>
-
-<br>
 
 ---
 
+<!-- ══════════════════════════════════════════════════
+     MAIN HERO SECTION — Animation + About Side by Side
+════════════════════════════════════════════════════ -->
+
+<table>
+<tr>
+<td width="52%" valign="top">
+
+<br/>
+
+### `> whoami`
+
+```ts
+const isaac = {
+  name    : "Isaac Ackah",
+  alias   : "IDEAS-TECH",
+  role    : "Full Stack Developer",
+  base    : "Accra, Ghana 🇬🇭",
+  focus   : [
+    "Scalable Web Architecture",
+    "Cinematic UI/UX Engineering",
+    "AI-Powered Applications",
+    "Workflow Automation (n8n)",
+  ],
+  stack   : ["React","Next.js","NestJS","TypeScript","Node.js"],
+  db      : ["MongoDB","Firebase","PostgreSQL"],
+  cloud   : ["AWS","Vercel","Railway"],
+  status  : "🟢 Open to exciting projects",
+}
+```
+
+<br/>
+
+### `> motto`
+
+> *"Build experiences that feel **fast**, look **futuristic**, think **intelligently**, and stay **unforgettable**."*
+
+<br/>
+
+### `> currently`
+
+- 🔭 &nbsp;Building **AI-integrated full-stack platforms**
+- 🌱 &nbsp;Deepening expertise in **system design** & **LLM APIs**
+- ⚡ &nbsp;Automating complex workflows with **n8n**
+- 🎯 &nbsp;Goal: Ship products that genuinely impress
+
+</td>
+<td width="48%" valign="top" align="center">
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/coding-animation.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/coding-animation.svg">
+  <img src="assets/coding-animation.svg" width="100%" alt="IDEAS-TECH coding scene"/>
+</picture>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ══════════════════════════════════════════════════
+     SOCIALS
+════════════════════════════════════════════════════ -->
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IDEAS-TECH&icon=9&color=0bc5ea"/>
+
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-ackah-ideas)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ideasmee)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1PZa1iYBRk/?mibextid=wwXIfr)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ideasioaa@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0BC5EA?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/IDEAS-TECH)
+
 </div>
+
+---
+
+<!-- ══════════════════════════════════════════════════
+     TECH STACK — ICON BASED (devicons)
+════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🛠 Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,vite,figma" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,fastapi,graphql" />
+</p>
+
+### Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,redis,aws,vercel,docker,nginx" />
+</p>
+
+### Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,bash,npm,prisma" />
+</p>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════
+     GITHUB STATS — 3-COLUMN LAYOUT
+════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=IDEAS-TECH&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile&title_color=0bc5ea&text_color=c9d1d9&icon_color=7c3aed&bg_color=0d1117" height="175" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IDEAS-TECH&theme=tokyonight&hide_border=true&ring=0bc5ea&fire=f43f8a&currStreakLabel=0bc5ea&background=0d1117&stroke=2a2050&sideLabels=c9d1d9" height="175" alt="Streak Stats"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDEAS-TECH&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&title_color=0bc5ea&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════
+     CONTRIBUTION ACTIVITY GRAPH
+     (uses the github-readme-activity-graph service
+      which reads your REAL commit history — the graph
+      will show your 2025-2026 activity automatically)
+════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IDEAS-TECH&theme=tokyo-night&hide_border=true&area=true&area_color=0bc5ea&custom_title=IDEAS-TECH%20%E2%80%94%20Contribution%20Activity&color=0bc5ea&line=7c3aed&point=f43f8a&bg_color=0d1117" width="100%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════
+     GITHUB TROPHIES
+════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=IDEAS-TECH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6&title=Stars,Commit,Repositories,Followers,PullRequest,Issues" alt="Trophies"/>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════
+     SNAKE CONTRIBUTION GRAPH
+     Setup: enable the GitHub Action below to generate
+     the snake from your REAL contribution grid.
+     File: .github/workflows/snake.yml
+════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+> ⚙️ **Setup required once:** Create `.github/workflows/snake.yml` with the content in the note below, run the action, then this image will auto-update every day.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/IDEAS-TECH/IDEAS-TECH/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IDEAS-TECH/IDEAS-TECH/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/IDEAS-TECH/IDEAS-TECH/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════
+     WAKATIME / CODING TIME (optional, remove if unused)
+════════════════════════════════════════════════════ -->
+
+<!--
+<div align="center">
+
+## ⏱ Weekly Coding Time
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=IDEAS_TECH&theme=tokyonight&hide_border=true&title_color=0bc5ea&text_color=c9d1d9&bg_color=0d1117" />
+
+</div>
+-->
+
+<!-- ══════════════════════════════════════════════════
+     PROFILE VIEWS COUNTER
+════════════════════════════════════════════════════ -->
+
+<div align="center">
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=IDEAS-TECH&color=0bc5ea&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/IDEAS-TECH?color=7c3aed&style=for-the-badge&logo=github&label=FOLLOWERS)
+
+<br/><br/>
+
+*— Built with 🎧 lo-fi beats, ☕ strong coffee & infinite curiosity —*
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════
+     SNAKE GITHUB ACTION — paste this into:
+     .github/workflows/snake.yml
+     (create the file if it doesn't exist)
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # every day at midnight
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: IDEAS-TECH
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+════════════════════════════════════════════════════ -->
