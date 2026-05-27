@@ -23,8 +23,8 @@
 ### `> whoami`
 
 ```ts
-const isaac = {
-  name    : "Isaac Ackah",
+const ideas = {
+  name    : "Ideas",
   alias   : "IDEAS-TECH",
   role    : "Full Stack Developer",
   base    : "Kumasi, Ghana 🇬🇭",
